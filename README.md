@@ -5,7 +5,7 @@
 
 💬 Ask me about anything on Test Automation you need.
 
-contract with me: mdasadul.qa@gmail.com
+Contract with me: mdasadul.qa@gmail.com
 
 # API
 *  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION</a>
@@ -16,7 +16,7 @@ contract with me: mdasadul.qa@gmail.com
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko</a>
 
 <!--
-**jahangiralam-qa/jahangiralam-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
