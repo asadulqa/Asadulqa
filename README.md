@@ -8,7 +8,7 @@
 
 
 # API
-*  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION</a>
+*  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION (API)</a>
 
 # AUTOMATION
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
