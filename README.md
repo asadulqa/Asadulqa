@@ -15,7 +15,7 @@ Mobile Number: 01612425150
 *  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION</a>
 
 # AUTOMATION
-* <a href='https://github.com/asadulqa/Coingecko'>Coingecko test automation</a>
+* <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation With Appium</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance website test automation</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche test automationr</a>
 * <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce test automation</a>
