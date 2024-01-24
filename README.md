@@ -20,6 +20,7 @@ Mobile Number: 01612425150
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche test automationr</a>
 * <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce test automation</a>
 * <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_ecommerce test automation</a>
+* <a href='https://github.com/asadulqa/Coingecko'>Coingecko test automation</a>
 
 
 <!--
