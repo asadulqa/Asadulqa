@@ -7,9 +7,9 @@
 
 ### Contract with me:
 
-Email: mdasadul.qa@gmail.com
+Email : mdasadul.qa@gmail.com
 
-Mobile Number: +8801612425150
+Mobile Number : +8801612425150
 
 # API
 *  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION</a>
