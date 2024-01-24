@@ -15,9 +15,9 @@ Mobile Number: 01612425150
 *  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION</a>
 
 # AUTOMATION
-* <a href='https://github.com/asadulqa/Coingecko'>Coingecko</a>
+* <a href='https://github.com/asadulqa/Coingecko'>Coingecko test automation</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance website test automation</a>
-* <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche_data-scraping-with-selenium-Webdriver</a>
+* <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche test automationr</a>
 
 
 <!--
