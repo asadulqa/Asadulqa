@@ -14,8 +14,8 @@
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche UI Test Automation</a>
-* <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI Test Automation</a>
-* <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation </a>
+* <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI (Selenium)</a>
+* <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation (Selenium) </a>
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko UI Test Automation</a>
 
 ### Contract with me:
