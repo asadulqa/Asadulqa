@@ -16,7 +16,7 @@ Mobile Number: 01612425150
 
 # AUTOMATION
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko</a>
-* <a href='https://github.com/asadulqa/financeassure'>AssureFinance test automation</a>
+* <a href='https://github.com/asadulqa/financeassure'>Finance website test automation</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche_data-scraping-with-selenium-Webdriver</a>
 
 
