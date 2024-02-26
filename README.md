@@ -20,7 +20,7 @@
 
 ### Contract with me:
 
-Email: mdasadul.qa@gmail.com
+Email: mdasadulhaque387@gmail.com
 
 Mobile Number: +8801612425150
 <!--
