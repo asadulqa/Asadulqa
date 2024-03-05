@@ -12,7 +12,7 @@
 
 # API AND UI TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
-* <a href='https://github.com/asadulqa/playwrite-boot-camp'Playwrite-boot-cam</a>
+* <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche UI Test Automation</a>
 * <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI (Selenium)</a>
