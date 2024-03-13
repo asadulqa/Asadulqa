@@ -8,7 +8,7 @@
 
 
 # API TESTING WITH POSTMAN
-*  <a href='https://github.com/asadulqa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION </a>
+*  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api test collection automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api test automation with Pytest</a>
 
 
