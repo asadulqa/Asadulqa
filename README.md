@@ -9,6 +9,8 @@
 
 # API TESTING WITH POSTMAN
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION </a>
+*  <a href='https://github.com/asadulqa/api-automation'>Api test automation with Pytest</a>
+
 
 # API AND UI TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
