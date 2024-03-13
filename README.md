@@ -8,7 +8,7 @@
 
 
 # API TESTING WITH POSTMAN
-*  <a href='https://github.com/jahangiralam-qa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION </a>
+*  <a href='https://github.com/asadulqa/postmanapitestcollection'>REST API TEST COLLECTION AUTOMATION </a>
 
 # API AND UI TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
