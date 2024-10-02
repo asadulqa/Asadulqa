@@ -15,7 +15,7 @@ Mobile Number: +8801612425150
 # API TESTING WITH POSTMAN
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
-*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>>Rest Api Test Collection </a>
+*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>Rest Api Test Collection </a>
 
 
 # WEB TEST AUTOMATION 
