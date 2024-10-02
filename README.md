@@ -5,7 +5,7 @@
 
 💬 Ask me about anything on Test Automation you need.
 
-Email: mdasadulhaque387@gmail.com
+Email: mdasadul.qa@gmail.com
 
 Mobile Number: +8801612425150
 
