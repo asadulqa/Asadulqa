@@ -11,6 +11,8 @@
 # API TESTING WITH POSTMAN
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api test collection automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api test automation with Pytest</a>
+*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>>Rest Api test collection </a>
+
 
 # WEB TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
