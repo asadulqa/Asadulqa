@@ -5,15 +5,14 @@
 
 💬 Ask me about anything on Test Automation you need.
 
-
+# MOBILE APP AUTOMATION WITH APPIUM
+* <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
 # API TESTING WITH POSTMAN
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api test collection automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api test automation with Pytest</a>
 
-
-# TEST AUTOMATION 
-* <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
+# WEB TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche UI Test Automation</a>
