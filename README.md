@@ -4,6 +4,8 @@
 👯 I’m looking to collaborate on any test automation project.
 
 💬 Ask me about anything on Test Automation you need.
+Email: mdasadulhaque387@gmail.com
+Mobile Number: +8801612425150
 
 # MOBILE APP AUTOMATION WITH APPIUM
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
@@ -22,13 +24,7 @@
 * <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation (Selenium) </a>
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko UI Test Automation</a>
 
-### Contract with me:
-
-Email: mdasadulhaque387@gmail.com
-
-Mobile Number: +8801612425150
 <!--
-
 
 Here are some ideas to get you started:
 
