@@ -4,7 +4,9 @@
 👯 I’m looking to collaborate on any test automation project.
 
 💬 Ask me about anything on Test Automation you need.
+
 Email: mdasadulhaque387@gmail.com
+
 Mobile Number: +8801612425150
 
 # MOBILE APP AUTOMATION WITH APPIUM
