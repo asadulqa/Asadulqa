@@ -13,6 +13,8 @@ Mobile Number: +8801612425150
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
 # API TESTING WITH POSTMAN
+
+*  <a href='https://github.com/asadulqa/apipostmanv0.3'>Bookig_testing Collection  </a>
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
 *  <a href='https://github.com/asadulqa/API-testing-with-Postman'>Rest Api Test Collection </a>
