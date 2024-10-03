@@ -12,14 +12,6 @@ Mobile Number: +8801612425150
 # MOBILE APP AUTOMATION WITH APPIUM
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
-# API TESTING WITH POSTMAN
-
-*  <a href='https://github.com/asadulqa/apipostmanv0.3'>Bookig Testing Collection  </a>
-*  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
-*  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
-*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>Rest Api Test Collection </a>
-
-
 # WEB TEST AUTOMATION 
 * <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
@@ -27,6 +19,13 @@ Mobile Number: +8801612425150
 * <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI (Selenium)</a>
 * <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation (Selenium) </a>
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko UI Test Automation</a>
+
+# API TESTING WITH POSTMAN
+
+*  <a href='https://github.com/asadulqa/apipostmanv0.3'>Bookig Testing Collection  </a>
+*  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
+*  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
+*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>Rest Api Test Collection </a>
 
 <!--
 
