@@ -12,7 +12,7 @@ Mobile Number: +8801612425150
 # BDD Framework
 * <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
 
-* <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
+* <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
 
 
 # MOBILE APP AUTOMATION WITH APPIUM
