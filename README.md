@@ -10,7 +10,7 @@ Email: mdasadul.qa@gmail.com
 Mobile Number: +8801612425150
 
 # BDD Framework
-* <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
+* <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework</a>
 
 
 # MOBILE APP AUTOMATION WITH APPIUM
