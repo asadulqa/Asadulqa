@@ -9,20 +9,25 @@ Email: mdasadul.qa@gmail.com
 
 Mobile Number: +8801612425150
 
-# BDD Framework
+# JAVASCRIPT AUTOMATION TESTING
+ *  <a href='https://github.com/asadulqa/SwagLabs'>SWAGLABS AUTOMATION WITH  JAVASCRIPT </a>
+ *  <a href='https://github.com/asadulqa/EvershopIO'>ERVERSHOP AUTOMATION WITH JAVASCRIPT</a>
+ 
+
+# BDD Framework WITH PYTHON
 * <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
 
 * <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
 
 
-# MOBILE APP AUTOMATION WITH APPIUM
+# MOBILE APP AUTOMATION WITH APPIUM PYTHON
 * <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
 
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
 
 
-# WEB TEST AUTOMATION 
+# WEB TEST AUTOMATION WITH PYTHON
 
 * <a href='https://github.com/asadulqa/tutorialsninjaz_selenium'>UI Test Automation (Selenium)</a>
 * <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
