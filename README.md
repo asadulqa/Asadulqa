@@ -10,8 +10,8 @@ Email: mdasadul.qa@gmail.com
 Mobile Number: +8801612425150
 
 # JAVASCRIPT AUTOMATION TESTING
- *  <a href='https://github.com/asadulqa/SwagLabs'>SWAGLABS AUTOMATION WITH  JAVASCRIPT </a>
- *  <a href='https://github.com/asadulqa/EvershopIO'>ERVERSHOP AUTOMATION WITH JAVASCRIPT</a>
+ *  <a href='https://github.com/asadulqa/SwagLabs'>SWAGLABS Automation Wtih Javascript </a>
+ *  <a href='https://github.com/asadulqa/EvershopIO'>Evershop Automation With Selenium Javascript</a>
  *  <a href = 'https://github.com/asadulqa/tutorialsninja'> Automation With WebdriverIo</a>
  
 
