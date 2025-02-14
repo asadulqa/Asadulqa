@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Test Automation with Python
+🔭 I’m currently working on Test Automation with Python And JS
 
 👯 I’m looking to collaborate on any test automation project.
 
