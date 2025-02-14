@@ -31,9 +31,9 @@ Mobile Number: +8801612425150
 # TEST AUTOMATION WITH PYTHON
 
 * <a href='https://github.com/asadulqa/Pytest-automation-project'>Pytest Web Automation (Python)</a>
+* <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/tutorialsninjaz_selenium'>UI Test Automation (Selenium)</a>
 * <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
-* <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche UI Test Automation</a>
 * <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI (Selenium)</a>
 * <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation (Selenium) </a>
