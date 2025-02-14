@@ -14,22 +14,15 @@ Mobile Number: +8801612425150
  *  <a href='https://github.com/asadulqa/EvershopIO'>Evershop Automation With Selenium Javascript</a>
  *  <a href = 'https://github.com/asadulqa/tutorialsninja'> Automation With WebdriverIo</a>
  
-
 # BDD Framework WITH PYTHON
 * <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
-
 * <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
-
 
 # MOBILE APP AUTOMATION WITH APPIUM PYTHON
 * <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
-
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
-
-
 # TEST AUTOMATION WITH PYTHON
-
 * <a href='https://github.com/asadulqa/Pytest-automation-project'>Pytest Web Automation (Python)</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/tutorialsninjaz_selenium'>UI Test Automation (Selenium)</a>
@@ -40,7 +33,6 @@ Mobile Number: +8801612425150
 * <a href='https://github.com/asadulqa/Coingecko'>Coingecko UI Test Automation</a>
 
 # API TESTING WITH POSTMAN
-
 *  <a href='https://github.com/asadulqa/apipostmanv0.3'>Bookig Testing Collection  </a>
 *  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
 *  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
