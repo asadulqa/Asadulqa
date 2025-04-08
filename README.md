@@ -17,7 +17,7 @@ Mobile Number: +8801612425150
 # PYTHON AUTOMAITON
 * <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
 * <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
-* <a href='https://github.com/asadulqa/pytest_project'>Pytest Web Automation (Python)</a>
+* <a href='https://github.com/asadulqa/pytest_project'>Pytest Web Automation</a>
 
 # MOBILE APP AUTOMATION WITH APPIUM PYTHON
 * <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
