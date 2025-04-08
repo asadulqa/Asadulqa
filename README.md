@@ -14,15 +14,17 @@ Mobile Number: +8801612425150
  *  <a href='https://github.com/asadulqa/EvershopIO'>Evershop Automation With Selenium Javascript</a>
  *  <a href = 'https://github.com/asadulqa/tutorialsninja'> Automation With WebdriverIo</a>
  
-# BDD Framework WITH PYTHON
+# PYTHON AUTOMAITON
 * <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
 * <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
+* <a href='https://github.com/asadulqa/pytest_project'>Pytest Web Automation (Python)</a>
 
 # MOBILE APP AUTOMATION WITH APPIUM PYTHON
 * <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
 * <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
 
 # TEST AUTOMATION WITH PYTHON
+
 * <a href='https://github.com/asadulqa/Pytest-automation-project'>Pytest Web Automation (Python)</a>
 * <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
 * <a href='https://github.com/asadulqa/tutorialsninjaz_selenium'>UI Test Automation (Selenium)</a>
