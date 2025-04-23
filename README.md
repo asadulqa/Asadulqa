@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aasdul Haque
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=asadulqa.asadulqa)
+
 
 
 🎯 **Full Stack SQA Engineer**   
@@ -47,5 +47,6 @@
 📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
 
 ---
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=asadulqa.asadulqa)
 
 ⭐ **Thanks for visiting!**
