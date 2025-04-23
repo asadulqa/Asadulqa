@@ -2,8 +2,11 @@
 
 🎯 **Full Stack SQA Engineer**   
 📍 Dhaka, Bangladesh 
+
 📞 Cell/WhatsApp: +880 1612425150
+
 📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/md-asadul-haque-80b2072b3/)
 
 ---
@@ -38,6 +41,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-asadul-haque-80b2072b3/)  
 📂 GitHub: [asadulqa](https://github.com/asadulqa) 
+
+📞 Cell/WhatsApp: +880 1612425150
+
+📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
 
 ---
 
