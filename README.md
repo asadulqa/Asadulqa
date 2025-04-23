@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Aasdul Haque
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=asadulqa.asadulqa)
+
+
 🎯 **Full Stack SQA Engineer**   
 📍 Dhaka, Bangladesh 
 📞 Cell/WhatsApp: +880 1612425150
