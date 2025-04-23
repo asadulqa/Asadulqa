@@ -1,55 +1,44 @@
-### Hi there 👋
-🔭 I’m currently working on Test Automation with Python & JS
+# 👋 Hi, I'm Aasdul Haque
 
-👯 I’m looking to collaborate on any test automation project.
+🎯 **Full Stack SQA Engineer**   
+📍 Dhaka, Bangladesh 
+📞 Cell/WhatsApp: +880 1612425150
+📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/md-asadul-haque-80b2072b3/)
 
-💬 Ask me about anything on Test Automation you need.
+---
 
-Email: mdasadul.qa@gmail.com
+## 👨‍💻 About Me
 
-Mobile Number: +8801612425150
+🔹 I'm a **Full Stack SQA Engineer** with over 3 years of experience in **test automation**, **manual testing**, and **Agile methodologies**.  
+🔹 I specialize in building and optimizing test frameworks using tools like **Selenium**, **Cypress**, and **Appium** for **web** and **mobile testing**.  
+🔹 I’m passionate about improving software quality through efficient testing processes that reduce cycle time and increase **test coverage**.  
 
-# JAVASCRIPT AUTOMATION TESTING
- *  <a href='https://github.com/asadulqa/SwagLabs'>SWAGLABS Automation Wtih Javascript </a>
- *  <a href='https://github.com/asadulqa/EvershopIO'>Evershop Automation With Selenium Javascript</a>
- *  <a href = 'https://github.com/asadulqa/tutorialsninja'> Automation With WebdriverIo</a>
- 
-# PYTHON AUTOMAITON
-* <a href='https://github.com/asadulqa/Python-Selenium-BDD-Framework'>Python Selenium BDD Framework(WEB)</a>
-* <a href='https://github.com/asadulqa/AppiumFramework'>Python Selenium Appium BDD Framework(MOBILE APP)</a>
-* <a href='https://github.com/asadulqa/pytest_project'>Pytest Web Automation</a>
+---
 
-# MOBILE APP AUTOMATION WITH APPIUM PYTHON
-* <a href='https://github.com/asadulqa/Appium_Project'>Taskito App Automation(Appium)</a>
-* <a href='https://github.com/asadulqa/Mobile-App-Automation'>Mobile App Automation(Appium)</a>
+## 🛠 Skills & Tools
 
-# TEST AUTOMATION WITH PYTHON
+- **Languages & Tools:** Python, JavaScript, NodeJS, Postman
+- **Automation Frameworks:** Selenium, Pytest, Cypress, WebDriverIO, Appium, 
+- **Testing Types:** Manual, Automation, API Testing, Mobile Testing, E2E Testing, Performance Testing, Regression
+- **Tools & Platforms:** Jira, ClickUp, GitHub, GitLab
+- **Concepts:** Page Object Model (POM), Data-Driven Testing, STLC, SDLC, Agile-Scrum
 
-* <a href='https://github.com/asadulqa/Pytest-automation-project'>Pytest Web Automation (Python)</a>
-* <a href='https://github.com/asadulqa/financeassure'>Finance UI Test Automation With Pytest(Selenium)</a>
-* <a href='https://github.com/asadulqa/tutorialsninjaz_selenium'>UI Test Automation (Selenium)</a>
-* <a href='https://github.com/asadulqa/playwrite-boot-camp'>Playwrite-boot-cam</a>
-* <a href='https://github.com/asadulqa/Mablouseblanche_data-scraping-with-selenium-Webdriver'>Mablouseblanche UI Test Automation</a>
-* <a href='https://github.com/asadulqa/-Batabd_data-scaping-with-Beautifulsoup4'>Batabd_ecommerce UI (Selenium)</a>
-* <a href='https://github.com/asadulqa/Daraz_ecommerce-website-bangladesh'>Daraz_Ecommerce UI Test Automation (Selenium) </a>
-* <a href='https://github.com/asadulqa/Coingecko'>Coingecko UI Test Automation</a>
+---
 
-# API TESTING WITH POSTMAN
-*  <a href='https://github.com/asadulqa/apipostmanv0.3'>Bookig Testing Collection  </a>
-*  <a href='https://github.com/asadulqa/postmanapitestcollection'>Rest Api Test Collection Automation </a>
-*  <a href='https://github.com/asadulqa/api-automation'>Api Test Automation With Pytest</a>
-*  <a href='https://github.com/asadulqa/API-testing-with-Postman'>Rest Api Test Collection </a>
+## ⚡ Fun Facts
 
-<!--
+- 🤝 I enjoy sharing knowledge with peers and continuously learning.
+- 🧪 I am passionate about building scalable and efficient test automation frameworks.
+- 💬 Ask me about **Test Automation**, **CI/CD**, **API Testing**, **Mobile Testing**, **Performance Testing**, **Cloud DevOps**, and more!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-asadul-haque-80b2072b3/)  
+📂 GitHub: [asadulqa](https://github.com/asadulqa) 
+
+---
+
+⭐ **Thanks for visiting!**
