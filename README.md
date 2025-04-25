@@ -47,8 +47,10 @@
 📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
 
 ---
-  <br/><br/>
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=asadulqa.asadulqa)
-</p>
+<div style="text-align: center; margin-top: 20px;">
+  <h1 style="font-size: 2.5em;">👀 Profile Views</h1>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=asadulqa.asadulqa" alt="Profile Views Badge" style="width: 300px; height: auto;"/>
+</div>
+
 
 ⭐ **Thanks for visiting!**
