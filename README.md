@@ -3,7 +3,7 @@
 
 
 
-🎯 **Full Stack SQA Engineer**   
+🎯 **Full Stack SQA Engineer & n8n expert**   
 📍 Dhaka, Bangladesh 
 📞 Cell/WhatsApp: +880 1612425150
 📧 Email: [mdasadul.qa@gmail.com](mailto:mdasadul.qa@gmail.com)  
