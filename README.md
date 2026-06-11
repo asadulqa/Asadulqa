@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 🔹 I'm a **Full Stack SQA Engineer** with over 3 years of experience in **test automation**, **manual testing**, and **Agile methodologies**.  
-🔹 I specialize in building and optimizing test frameworks using tools like **Selenium**, **PlayWright** **Cypress**, and **Appium** for **web** and **mobile testing**.  
+🔹 I specialize in building and optimizing test frameworks using tools like **Selenium**, **PlayWright**, **Cypress**, and **Appium** for **web** and **mobile testing**.  
 🔹 I’m passionate about improving software quality through efficient testing processes that reduce cycle time and increase **test coverage**.  
 
 ---
