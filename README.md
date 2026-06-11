@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 🔹 I'm a **Full Stack SQA Engineer** with over 3 years of experience in **test automation**, **manual testing**, and **Agile methodologies**.  
-🔹 I specialize in building and optimizing test frameworks using tools like **Selenium**, **Cypress**, and **Appium** for **web** and **mobile testing**.  
+🔹 I specialize in building and optimizing test frameworks using tools like **Selenium**, **PlayWright** **Cypress**, and **Appium** for **web** and **mobile testing**.  
 🔹 I’m passionate about improving software quality through efficient testing processes that reduce cycle time and increase **test coverage**.  
 
 ---
@@ -23,7 +23,7 @@
 ## 🛠 Skills & Tools
 
 - **Languages & Tools:** Python, JavaScript, NodeJS, Postman
-- **Automation Frameworks:** Selenium, Pytest, Cypress, WebDriverIO, Appium, 
+- **Automation Frameworks:** Selenium, Pytest, PlayWright, Cypress, WebDriverIO, Appium, 
 - **Testing Types:** Manual, Automation, API Testing, Mobile Testing, E2E Testing, Performance Testing, Regression
 - **Tools & Platforms:** Jira, ClickUp, GitHub, GitLab
 - **Concepts:** Page Object Model (POM), Data-Driven Testing, STLC, SDLC, Agile-Scrum
